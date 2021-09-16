@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @BhaskarMukherjee
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning python
+- 💞️If(a=1998)
+{
+Printf ("Bhaskar Mukherjee");
+}
+- 📫 
 
 <!---
 BhaskarMukherjee/BhaskarMukherjee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
